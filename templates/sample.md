@@ -1,5 +1,6 @@
 # Sample lesson
 ![alt text](http://pello.io/images/logo.png "This is the logo")
+
 This lesson covers some important features
 
 ## Sample section
